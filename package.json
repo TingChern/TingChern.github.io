@@ -12,7 +12,7 @@
   "name": "assessment",
   "description": "",
   "version": "0.0.0",
-  "homepage": "https://TingChern.github.io/TingChern.github.io",
+  "homepage": "https://TingChern.github.io",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
